@@ -9,7 +9,6 @@ const config = {
   tabWidth: 2,
   useTabs: false,
   jsxSingleQuote: true,
-  jsxBracketSameLine: false,
   endOfLine: 'lf'
 };
 
